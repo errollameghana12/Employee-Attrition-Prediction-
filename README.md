@@ -1,0 +1,2 @@
+Employee attrition is a major challenge for organizations. This project predicts whether an employee is likely to leave the company using Machine Learning.
+The trained model is deployed as a Streamlit web application for easy interaction.
